@@ -1,0 +1,22 @@
+{
+  "wheel_id": 439,
+  "structure": "umbrella",
+  "slug": "retainingwallsbrisbane-152",
+  "project": "retaining-wall-builders-brisbane-council-and-approvals-6c1f8",
+  "parent_t1_ref": "retainingwallsbrisbane-007",
+  "node_role": "buffer",
+  "money_target": "retainingwallsbrisbane.net.au",
+  "primary_kw": "retaining wall builders brisbane council and approvals",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-brisbane-council-and-approvals-6c1f8/",
+  "tier": "T2",
+  "writeback_nonce": "69ee5c4a53817616",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-brisbane/",
+      "anchor": "the retaining wall builders brisbane overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
